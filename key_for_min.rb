@@ -8,5 +8,5 @@ def key_for_min_value(name_hash)
       min_value = value
     end
   end
-  puts name_hash(key)
+  puts name_hash
 end
